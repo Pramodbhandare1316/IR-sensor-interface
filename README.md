@@ -6,7 +6,8 @@ The NodeMCU ESP8266 reads data from the IR sensor and send it to a web server fo
 - [Overview](#overview)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
-- [Wiring Diagram](#wiring-diagram)
+- [Connections](#wiring-diagram)
+- [Circuit Diagram](#Circuit-diagram) 
 - [Installation](#installation)
 
 ## Overview
@@ -26,10 +27,13 @@ In this project, an IR sensor is used to detect infrared radiation emitted by an
 - NodeMCU board support for Arduino IDE
 - Required libraries (e.g., ESP8266WiFi, ESP8266HTTPClient)
 
-  ## Wiring Diagram
+  ## Connections
   
 - Connect the VCC pin of the IR sensor to 3.3V (or 5V) on NodeMCU ESP8266.
 - Connect the GND pin of the IR sensor to GND on NodeMCU ESP8266.
 - Connect the OUT pin of the IR sensor to GPIO pin D1 (GPIO5) on NodeMCU ESP8266.
 
-  ## 
+  ## Circuit Diagram
+
+  
+  

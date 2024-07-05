@@ -34,6 +34,7 @@ In this project, an IR sensor is used to detect infrared radiation emitted by an
 - Connect the OUT pin of the IR sensor to GPIO pin D1 (GPIO5) on NodeMCU ESP8266.
 
   ## Circuit Diagram
+  ![Circuit Diagram] (./Image/IRSensor.jpg)
 
   
   

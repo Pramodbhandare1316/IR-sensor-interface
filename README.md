@@ -35,11 +35,11 @@ In this project, an IR sensor is used to detect infrared radiation emitted by an
   ## Installation
 
   **i.Set Up Software Setup :**
-   - Install the VScode from [vscode.cc](https://code.visualstudio.com/download).
-   - Install PlatformIO Extension Or C and C++ Extension.
-   - Creat the new project
-   - select the ESP8266 NodeMCU board
-   - Install  required librarie
+ - Install the VScode from [vscode.cc](https://code.visualstudio.com/download).
+ - Install PlatformIO Extension Or C and C++ Extension.
+ - Creat the new project
+ - select the ESP8266 NodeMCU board
+ - Install  required librarie
 
 #### ii.Thingspeak  Setup
  - open Thingspeak

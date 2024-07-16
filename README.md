@@ -32,7 +32,7 @@ In this project, an IR sensor is used to detect infrared radiation emitted by an
 - Thinkspeak
 - Required libraries (e.g., ESP8266WiFi, ESP8266HTTPClient ,Thinkspeak)
 
-  ## Installation
+ ## Installation
 
 **i.Set Up Software Setup :**
  - Install the VScode from [vscode.cc](https://code.visualstudio.com/download).
